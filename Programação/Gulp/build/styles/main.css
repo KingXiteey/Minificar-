@@ -1,0 +1,20 @@
+
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Jaro", sans-serif;
+    
+  }
+  
+  .container {
+      background: #fff;
+              padding: 20px;
+              border-radius: 10px;
+              box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+              text-align: center;
+  }
+  button {
+    border: none;
+    background-color: rgb(87, 87, 87);
+  }
